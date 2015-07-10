@@ -1,0 +1,28 @@
+{
+  "name": "cascadiafest",
+  "version": "1.0.0",
+  "description": "Redirects to the cascadiafest survey",
+  "bin": {
+    "cascadiafest": "./index.js"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/itsananderson/cascadiafest.git"
+  },
+  "keywords": [
+    "cascadiafest"
+  ],
+  "author": "Will Anderson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/itsananderson/cascadiafest/issues"
+  },
+  "homepage": "https://github.com/itsananderson/cascadiafest",
+  "dependencies": {
+    "open": "0.0.5"
+  }
+}
