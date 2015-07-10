@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 
-var open = require("open");
+var opener = require("opener");
 var url = "http://bit.ly/cascadiafest";
 
 console.log("Opening " + url);
-open(url);
+opener(url);

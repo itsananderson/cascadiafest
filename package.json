@@ -1,6 +1,6 @@
 {
   "name": "cascadiafest",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Redirects to the cascadiafest survey",
   "bin": {
     "cascadiafest": "./index.js"
@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/itsananderson/cascadiafest",
   "dependencies": {
-    "open": "0.0.5"
+    "opener": "^1.4.1"
   }
 }
