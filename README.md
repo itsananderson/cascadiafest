@@ -1,2 +1,2 @@
-# cascadiafest
-Redirects to the cascadiafest survey
+# cascadiafest (unofficial fan package)
+Redirects to the cascadiafest website
